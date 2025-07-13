@@ -9,6 +9,8 @@ This repository contains all the practice projects I completed during the **Resp
 3. **Colored Markers**
 4. **Registration Form**
 5. **Rothko Painting**
+5. **Photo Gallery**
+
 ##  Disclaimer
 
 
