@@ -11,6 +11,7 @@ This repository contains all the practice projects I completed during the **Resp
 5. **Rothko Painting**
 6. **Photo Gallery**
 7. **Nutrition Label**
+8. **Accessibility by Building a Quiz**
 
 
 ##  Disclaimer
