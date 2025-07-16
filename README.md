@@ -12,7 +12,8 @@ This repository contains all the practice projects I completed during the **Resp
 6. **Photo Gallery**
 7. **Nutrition Label**
 8. **Accessibility by Building a Quiz**
-
+9. **CSS Pseudo Selectors by Building A Balance Sheet**
+CSS Pseudo Selectors by Building A Balance Sheet
 
 ##  Disclaimer
 
