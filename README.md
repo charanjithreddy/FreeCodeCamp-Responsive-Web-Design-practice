@@ -13,7 +13,9 @@ This repository contains all the practice projects I completed during the **Resp
 7. **Nutrition Label**
 8. **Accessibility by Building a Quiz**
 9. **CSS Pseudo Selectors by Building A Balance Sheet**
-CSS Pseudo Selectors by Building A Balance Sheet
+10. **Intermediate CSS by Building a Cat Painting**
+11. **Responsive Web Design by Building a Piano**
+
 
 ##  Disclaimer
 
