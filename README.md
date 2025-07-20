@@ -16,6 +16,7 @@ This repository contains all the practice projects I completed during the **Resp
 10. **Intermediate CSS by Building a Cat Painting**
 11. **Responsive Web Design by Building a Piano**
 12. **CSS Variables by Building a City Skyline**
+13. **CSS Grid by Building a Magazine**
 
 
 
