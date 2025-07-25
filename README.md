@@ -17,8 +17,8 @@ This repository contains all the practice projects I completed during the **Resp
 11. **Responsive Web Design by Building a Piano**
 12. **CSS Variables by Building a City Skyline**
 13. **CSS Grid by Building a Magazine**
-13. **CSS Animation by Building a Ferris Wheel**
-
+14. **CSS Animation by Building a Ferris Wheel**
+15. **CSS Transforms by Building a Penguin**
 
 
 ##  Disclaimer
